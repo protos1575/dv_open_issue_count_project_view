@@ -1,0 +1,9 @@
+= dv_open_issue_count_project_view
+
+This plugin shows open issue count on project view page
+
+
+= Installation
+
+Like any other plugin
+
